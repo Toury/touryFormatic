@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>PluginValidar</name>
+=======
+	<name>pruebasGit</name>
+>>>>>>> d7b6aedc5d25168d1ba305eda5885031523513a2
 	<comment></comment>
 	<projects>
 	</projects>
